@@ -41,15 +41,6 @@ For more information, please visit http://cs-education.com/Delve.htm
    [<img align="left" alt="pdf icon" width="45px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/pdf.png"/>](https://dl.acm.org/doi/pdf/10.1145/3510309.3510345)
    [<img align="left" alt="video icon" width="45px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/video.png"/>](https://www.youtube.com/watch?v=YN_7TzqeaU0)
     <br><br>
-    
-2. Charis Charitsis, Chris Piech, and John Mitchell<br>
-   <b>Profiling Program Decomposition in CS1</b><br>
-   <i>In Proceedings of the 14th International Conference on Education and New Learning Technologies (EDULEARN '22)</i><br>
-   <i>Pages 10128-10135</i><br>
-   International Academy of Technology, Education and Development, Valencia, Spain<br>
-   https://doi.org/10.21125/edulearn.2022.2447
-
-   [<img align="left" alt="pdf icon" width="45px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/pdf.png"/>](https://library.iated.org/download/CHARITSIS2022PRO)
 
 Author: Charis Charitsis
 
