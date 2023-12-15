@@ -2,7 +2,7 @@
 <!---   D   E   L   V   E   --->
 <!----------------------------->
 <h1>
-    <img align="left" alt="Delve" width="55px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/delve/delve.png"/>Delve
+    <img align="left" alt="Delve" width="40px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/delve/delve.png"/>Delve
 </h1>
 Delve is a program designed for CS educators in courses with programming assignments.
 The current version supports the Java programming language.
