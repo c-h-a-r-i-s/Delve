@@ -17,7 +17,7 @@ For more information, please visit http://cs-education.com/Delve.htm
 <!---   R   E   L   A   T   E   D      P   U   B   L   I   C   A   T   I   O   N   S   --->
 <!---------------------------------------------------------------------------------------->
 <h2>
-    <img align="left" alt="ACM icon" width="40px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/acm.png"/>Related Publications
+    <img align="left" alt="ACM icon" width="35px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/acm.png"/>Related Publications
 </h2>
 
 1. Charis Charitsis, Chris Piech, and John Mitchell<br>
