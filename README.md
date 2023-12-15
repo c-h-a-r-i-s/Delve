@@ -4,6 +4,9 @@ The current version supports the Java programming language.
 Delve analyzes thousands of program snapshots in seconds, visualizes how code evolves over time, highlights complex code and uses code instrumentation to reduce the test code by 80% compared to unit-tests.
 
 ![Delve Screen Shot #1][delve-screenshot-1]
+![Delve Screen Shot #2][delve-screenshot-2]
+![Delve Screen Shot #3][delve-screenshot-3]
+![Delve Screen Shot #4][delve-screenshot-4]
 
 For more information, please visit http://cs-education.com/Delve.htm
 
@@ -15,3 +18,6 @@ Author: Charis Charitsis
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [delve-screenshot-1]: https://github.com/c-h-a-r-i-s/resources/blob/main/images/delve/screenshot1.png
+[delve-screenshot-2]: https://github.com/c-h-a-r-i-s/resources/blob/main/images/delve/screenshot2.png
+[delve-screenshot-3]: https://github.com/c-h-a-r-i-s/resources/blob/main/images/delve/screenshot3.png
+[delve-screenshot-4]: https://github.com/c-h-a-r-i-s/resources/blob/main/images/delve/screenshot4.png
