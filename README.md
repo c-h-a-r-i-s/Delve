@@ -16,9 +16,9 @@ For more information, please visit http://cs-education.com/Delve.htm
 <!---------------------------------------------------------------------------------------->
 <!---   R   E   L   A   T   E   D      P   U   B   L   I   C   A   T   I   O   N   S   --->
 <!---------------------------------------------------------------------------------------->
-<h1>
+<h2>
     <img align="left" alt="ACM icon" width="40px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/acm.png"/>Related Publications
-</h1>
+</h2>
 
 1. Charis Charitsis, Chris Piech, and John Mitchell<br>
    <b>Feedback on Program Development Process for CS1 Students</b><br>
