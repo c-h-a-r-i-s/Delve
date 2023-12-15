@@ -11,6 +11,7 @@ Delve analyzes thousands of program snapshots in seconds, visualizes how code ev
 ![Delve Screen Shot #1][delve-screenshot-1]
 ![Delve Screen Shot #2][delve-screenshot-2]
 
+![Deve Video] (https://www.youtube.com/watch?v=jCem-wZuH34)
 For more information, please visit http://cs-education.com/Delve.htm
 
 <!---------------------------------------------------------------------------------------->
