@@ -11,7 +11,7 @@ Delve analyzes thousands of program snapshots in seconds, visualizes how code ev
 ![Delve Screen Shot #1][delve-screenshot-1]
 ![Delve Screen Shot #2][delve-screenshot-2]
 
-Demo:&nbsp; [<img align="center" alt="video icon" width="60px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/video.png"/>](https://www.youtube.com/watch?v=qeV5czj_GZs)
+Demo:&nbsp; [<img align="center" alt="video icon" width="256px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/delve/youtube_thumbnail.png"/>](https://www.youtube.com/watch?v=qeV5czj_GZs)
 &nbsp; &nbsp; &nbsp;
 User Manual:&nbsp; [<img align="center" alt="pdf icon" width="45px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/pdf.png"/>](https://github.com/c-h-a-r-i-s/resources/blob/main/files/delve/Delve%20User%20Guide.pdf)
 <br><br>
