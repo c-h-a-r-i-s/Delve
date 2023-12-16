@@ -1,3 +1,4 @@
+<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
 <!----------------------------->
 <!---   D   E   L   V   E   --->
 <!----------------------------->
@@ -53,3 +54,6 @@ Author: Charis Charitsis
 <!-- MARKDOWN LINKS & IMAGES -->
 [delve-screenshot-1]: https://github.com/c-h-a-r-i-s/resources/blob/main/images/delve/screenshot1.png
 [delve-screenshot-2]: https://github.com/c-h-a-r-i-s/resources/blob/main/images/delve/screenshot2.png
+
+</div>
+
