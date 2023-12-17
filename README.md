@@ -15,13 +15,16 @@ Delve analyzes thousands of program snapshots in seconds, visualizes how code ev
     <a href=https://www.youtube.com/watch?v=qeV5czj_GZs>
         <img align="center" alt="video icon" width="256px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/delve/youtube_thumbnail.png"/>
     </a>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    <br>
+    <h3 align="center">Demo</h3>
+</p>
+<p align="center">
     <a href=https://github.com/c-h-a-r-i-s/resources/blob/main/files/delve/Delve%20User%20Guide.pdf>
-        <img align="center" alt="pdf icon" width="150px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/pdf.png"/>
+        <img align="center" alt="pdf icon" width="120px" src="https://github.com/c-h-a-r-i-s/resources/blob/main/images/profile/pdf.png"/>
     </a>
     <br>
+    <h3 align="center">User Manual</h3> 
 </p>
-<h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Demo &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; User Manual</h3> 
 <br><br>
 
 
